@@ -9,6 +9,8 @@ This repository shows how to solve that problem by using a matching solution tha
 
 > Vector search is a method of searching through data by comparing high-dimensional numerical representations, or “vectors,” of the content. Unlike traditional keyword-based search, vector search uses machine learning models to understand the semantic meaning of data, such as text, images, or audio. This approach allows for finding items that are conceptually similar rather than just exact matches, improving the relevance of search results in applications like recommendation systems, natural language processing, and personalized content delivery.
 
+Have a look at this [Google Colab](https://colab.research.google.com/drive/19Tk1ZAdQmkdPlCZOvMaP-jqSf3FqWUa7) that shows a lot of the concepts.
+
 ## Loading the data
 
 ### Set up Astra DB
